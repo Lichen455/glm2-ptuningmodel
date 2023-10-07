@@ -10,8 +10,8 @@ chatglm2-6b里面ptuning文件夹里的文件，魔改了web_demo.py，写了tra
 
 #### 使用说明
 
-1.  运行服务端接收程序，修改IP与对应端口
-2.  将transmitter.py与tx.sh放入ptuning文件夹下，运行 bash tx.sh
+1.  运行服务端接收程序(webserver.py)，修改IP与对应端口
+2.  将transmitter.py与tx.sh放入ptuning文件夹下，运行命令 bash tx.sh
 3.  然后就可以不断发送了...参数看着改
 
 #### 参与贡献
